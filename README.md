@@ -3,7 +3,7 @@
 
 
 
-# Scale AI Leaderboard Viewer
+# AI Leaderboard Viewer
 
 This project displays Real-time data of Latest LLMs leaderboard data for AI model evaluations. It provides an interactive interface to view different leaderboards and compare model performances visually.
 
@@ -31,14 +31,9 @@ https://huggingface.co/spaces/bhaskartripathi/llm_leaderboards360
 
 1. Run the script:
    python leaderboard_viewer.py
-
 2. Open the provided URL in your web browser to access the Gradio interface.
-
 3. Use the dropdown menu to select different leaderboards and view the corresponding data and visualizations.
 
-## Note
-
-This application scrapes data from Scale.com. Please ensure you comply with Scale.com's terms of service and use this tool responsibly.
 
 ## Contributing
 
